@@ -9,6 +9,7 @@ itables
 kagglehub
 lxml
 matplotlib
+nbstripout
 nltk
 numpy
 openpyxl
