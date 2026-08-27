@@ -1,0 +1,29 @@
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Scratch/test files - matches this class's own naming convention for
+# in-progress copies (see course_materials' day-update skill, step 0)
+JUNK*
+*Copy1*
+Untitled*.ipynb
+*-inclasscopy*
