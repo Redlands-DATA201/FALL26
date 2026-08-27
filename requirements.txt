@@ -1,0 +1,24 @@
+# DATA 201 - Python packages used across the semester (Day1-Day22, exams, final project)
+# Install once, right after cloning your team's repo:
+#   pip install -r requirements.txt
+
+beautifulsoup4
+bokeh
+html5lib
+itables
+kagglehub
+lxml
+matplotlib
+nltk
+numpy
+openpyxl
+pandas
+plotly
+requests
+scikit-learn
+scipy
+seaborn
+selenium
+webdriver-manager
+wordcloud
+xlrd
