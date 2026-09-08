@@ -7,7 +7,7 @@ You have **two repos** this semester and they do two different jobs.
 | | |
 |---|---|
 | **`sandbox-yourusername`** | Yours. A full copy of this repo. Work through the lectures here, run the cells, break things. Never graded, nobody else sees it. |
-| **`team-yourteam`** | Your team's. Only `Week01` through `Week12` folders. Homework goes in that week's folder, on a branch, through a Pull Request. This is what gets graded. |
+| **`team-yourteam`** | Your team's. Only `Week01` through `Week05` folders. Homework goes in that week's folder, on a branch, through a Pull Request. This is what gets graded. |
 
 **This repo (`FALL26`) is read-only for you.** It is the shared "upstream" that every
 sandbox pulls from. You do not commit or open Pull Requests here.
