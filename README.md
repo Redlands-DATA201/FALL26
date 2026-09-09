@@ -46,7 +46,7 @@ You keep one branch in the team repo all semester, named after you:
 ```
 git checkout main
 git pull origin main
-git checkout yourname
+git checkout your_branch_name
 git merge main
 ```
 
